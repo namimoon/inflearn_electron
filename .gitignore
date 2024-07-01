@@ -1,0 +1,10 @@
+# compiled output
+/dist
+/node_modules
+
+# OS
+.DS_Store
+
+package-lock.json
+README.md
+.gitlab-ci.yml
